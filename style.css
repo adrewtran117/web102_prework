@@ -21,6 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    flex: 1;
+    align-items: flex-end;
+    cursor: pointer;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -39,7 +46,7 @@ body {
 #games-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: flex-start; /* Adjust the alignment as needed */
 }
 
 .game-img {
