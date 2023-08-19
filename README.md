@@ -1,5 +1,5 @@
 # WEB102 Prework - Sea Monster Crowdfunding
-# Note: The visual video for submitting projects was not working for me. Therefore, I am following the read.me and creating the GIF video on my own without a visual guide, until I can get assistance on getting the video to work. 
+## Note: The visual video for submitting projects was not working for me. Therefore, I am following the read.me and creating the GIF video on my own without a visual guide, until I can get assistance on getting the video to work. 
 
 Submitted by: Andrew Tran
 
