@@ -25,7 +25,7 @@ We might want to add a search bar. This will allow users to look for specific ga
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/KW0DpHC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SeaMonsterCrowdfunding_Andrew - Imgur.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
